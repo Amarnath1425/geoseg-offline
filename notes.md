@@ -12,7 +12,7 @@
 |---|---|---|
 | 0 | no-data (unlabelled pixels) | appears in a few masks; official LoveDA numbering |
 | 1 | background | orange strips beside the road in the plot |
-| 2 | building | appears in most masks except farmland-only ones; verify on photo 3516 |
+| 2 | building | appears in most masks except farmland-only ones |
 | 3 | road | red band exactly on the road in the plot |
 | 4 | water | purple on river and canal shapes |
 | 5 | barren | not checked yet |
