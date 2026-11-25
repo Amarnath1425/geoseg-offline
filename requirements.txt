@@ -1,0 +1,14 @@
+torch
+torchvision
+segmentation-models-pytorch
+numpy
+pillow
+matplotlib
+rasterio
+shapely
+geopandas
+onnx
+onnxruntime
+streamlit
+requests
+ipykernel
